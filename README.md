@@ -13,5 +13,6 @@ B.Tech student with a solid foundation in communication, editing, and Photoshop,
 
 
 ## 🛠 Skills
-HTML, CSS, JavaScript, C, Git, Github, Figma, TailwindCSS, React JS, Framer Motion
+HTML, CSS, JavaScript, C, Git, Github, Figma, TailwindCSS
 
+Learning - React JS & Framer Motion
