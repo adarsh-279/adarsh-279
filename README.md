@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-B.Tech student with a solid foundation in communication, editing, and Photoshop, I bring creativity and precision to my work with strong skills in web development, DSA, and C programming. Passionate about gaining experience, helping others,and continuously advancing my skills. Have build real-life projects and eager to contribute to a tech-driven team.
+2nd Year B.Tech student with a solid foundation in communication, editing, and Photoshop, I bring creativity and precision to my work with strong skills in web development, DSA, and C programming. Passionate about gaining experience, helping others,and continuously advancing my skills. Have build real-life projects and eager to contribute to a tech-driven team.
 
 
 ## 🔗 Links
