@@ -13,6 +13,6 @@
 
 
 ## 🛠 Skills
-HTML, CSS, JavaScript, C, Git, Github, Figma, TailwindCSS
-
-Learning - React JS & Framer Motion
+- **Development:** React.js, HTML, CSS, JavaScript, Tailwind CSS, GSAP, Framer Motion.
+- **Programming & DSA:** C Programming, Data Structures and Algorithms (DSA), Problem Solving
+- **Tools & Platforms:** Git & GitHub, Figma, Vercel, Photoshop, Canva
