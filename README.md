@@ -16,3 +16,8 @@
 - **Development:** React.js, HTML, CSS, JavaScript, Tailwind CSS, GSAP, Framer Motion.
 - **Programming & DSA:** C Programming, Data Structures and Algorithms (DSA), Problem Solving
 - **Tools & Platforms:** Git & GitHub, Figma, Vercel, Photoshop, Canva
+
+
+## Currently Learning
+- **NodeJS + ExpressJS**
+- **MongoDB**
