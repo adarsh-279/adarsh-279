@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-2nd Year B.Tech student with a solid foundation in communication, editing, and Photoshop, I bring creativity and precision to my work with strong skills in web development, DSA, and C programming. Passionate about gaining experience, helping others,and continuously advancing my skills. Have build real-life projects and eager to contribute to a tech-driven team.
+I'm a 2nd-year B.Tech student passionate about full-stack development, problem-solving, and creating user-focused digital experiences. With a foundation in web development, DSA, and C programming, I enjoy building real-world projects and continuously expanding my skills. I'm eager to collaborate, learn, and contribute to impactful tech projects.
 
 
 ## 🔗 Links
@@ -13,11 +13,9 @@
 
 
 ## 🛠 Skills
-- **Development:** React.js, HTML, CSS, JavaScript, Tailwind CSS, GSAP, Framer Motion.
-- **Programming & DSA:** C Programming, Data Structures and Algorithms (DSA), Problem Solving
-- **Tools & Platforms:** Git & GitHub, Figma, Vercel, Photoshop, Canva
+- **Development:** HTML, CSS, JavaScript
+- **Frameworks / Libraries:** React.js, Node.js, Express.js, Tailwind CSS, GSAP, Framer Motion
+- **Database:** MongoDB
+- **Programming & DSA:** C, Python, Data Structures and Algorithms (DSA)
+- **Tools & Platforms:** Git, GitHub, Postman, Figma, Vercel, Render, Photoshop, Canva
 
-
-## Currently Learning
-- **NodeJS + ExpressJS**
-- **MongoDB**
