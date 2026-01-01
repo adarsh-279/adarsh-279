@@ -16,7 +16,12 @@ I'm a 2nd-year B.Tech student passionate about full-stack development, problem-s
 ## 🛠 Skills
 - **Development:** HTML, CSS, JavaScript
 - **Frameworks / Libraries:** React.js, Node.js, Express.js, Tailwind CSS, GSAP, Framer Motion
-- **Database:** MongoDB
+- **Database:** MongoDB, Firebase
 - **Programming & DSA:** C, Python, Data Structures and Algorithms (DSA)
 - **Tools & Platforms:** Git, GitHub, Postman, Figma, Vercel, Render, Photoshop, Canva
 
+
+
+## Currently Learning 
+- Typescript
+- Next.js
