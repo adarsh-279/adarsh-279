@@ -3,7 +3,11 @@
 
 
 ## 🚀 About Me
-I'm a 2nd-year B.Tech student passionate about full-stack development, problem-solving, and creating user-focused digital experiences. With a foundation in web development, DSA, and C programming, I enjoy building real-world projects and continuously expanding my skills. I'm eager to collaborate, learn, and contribute to impactful tech projects.
+Hello! I’m Adarsh Shaw, an Information Technology (B.Tech) student at GNIT, Kolkata. I am a full-stack MERN developer who bridges the gap between complex backend logic and highly engaging, creative user experiences.
+
+My technical core is built on Data Structures & Algorithms (DSA), and the MERN Stack (MongoDB, Express.js, React.js, Node.js). I specialize in building scalable web applications with secure JWT authentication, dynamic routing, and fluid, high-performance interfaces powered by Tailwind CSS, GSAP, and Framer Motion. Beyond coding, I leverage a strong creative foundation in Adobe Photoshop, Figma, and digital editing to design intuitive, user-centric interfaces.
+
+A proven problem solver, I recently won the Smart India Hackathon (SIH) Internal Round (2025) out of 150+ teams and have developed real-world platforms like Reelish (a full-stack short-form video application) and Enhancia (an AI-driven image processing app). I thrive in high-energy, collaborative environments and am eager to contribute my full-stack development and creative problem-solving skills to a forward-thinking, tech-driven team.
 
 
 ## 🔗 Links
@@ -17,7 +21,7 @@ I'm a 2nd-year B.Tech student passionate about full-stack development, problem-s
 - **Development:** HTML, CSS, JavaScript
 - **Frameworks / Libraries:** React.js, Node.js, Express.js, Tailwind CSS, GSAP, Framer Motion
 - **Database:** MongoDB, Firebase
-- **Programming & DSA:** C, Python, Data Structures and Algorithms (DSA)
+- **Programming & DSA:** C, C++, Python, Java, Data Structures and Algorithms (DSA)
 - **Tools & Platforms:** Git, GitHub, Postman, Figma, Vercel, Render, Photoshop, Canva
 
 
@@ -25,3 +29,5 @@ I'm a 2nd-year B.Tech student passionate about full-stack development, problem-s
 ## Currently Learning 
 - Typescript
 - Next.js
+- Docker
+- AWS
